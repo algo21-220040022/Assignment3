@@ -7,4 +7,5 @@ This file is used to download the daily data from CCXT package.
 ## main.py
 This .py construct the "Hurst" calculation function and simulate the strategy.
 
+## Backtest result
 ![image](https://github.com/algo21-220040022/hurst_strategy/blob/main/result/backtest_reuslt.png)
